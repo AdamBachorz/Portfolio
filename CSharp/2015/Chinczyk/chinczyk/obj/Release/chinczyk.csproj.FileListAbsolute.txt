@@ -1,0 +1,8 @@
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\bin\Release\chinczyk.exe.config
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\bin\Release\chinczyk.exe
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\bin\Release\chinczyk.pdb
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\obj\Release\chinczyk.Form1.resources
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\obj\Release\chinczyk.Properties.Resources.resources
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\obj\Release\chinczyk.csproj.GenerateResource.Cache
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\obj\Release\chinczyk.exe
+C:\Users\Bacho\Documents\c#\chinczyk\chinczyk\obj\Release\chinczyk.pdb
