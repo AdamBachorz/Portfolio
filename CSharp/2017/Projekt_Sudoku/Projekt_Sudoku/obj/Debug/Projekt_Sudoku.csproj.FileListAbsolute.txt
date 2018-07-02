@@ -1,0 +1,14 @@
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\bin\Debug\Projekt_Sudoku.exe.config
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\bin\Debug\Projekt_Sudoku.exe
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\bin\Debug\Projekt_Sudoku.pdb
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.Form1.resources
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.Properties.Resources.resources
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.csproj.GenerateResource.Cache
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.exe
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.pdb
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Interop.MediaPlayer.dll
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Interop.WMPDXMLib.dll
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Interop.WMPLauncher.dll
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Interop.WMPLib.dll
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.csproj.ResolveComReference.cache
+F:\C#\Projekt_Sudoku\Projekt_Sudoku\obj\Debug\Projekt_Sudoku.csprojResolveAssemblyReference.cache
