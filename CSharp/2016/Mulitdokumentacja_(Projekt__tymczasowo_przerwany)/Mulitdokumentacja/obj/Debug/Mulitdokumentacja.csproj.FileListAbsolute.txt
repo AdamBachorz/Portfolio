@@ -1,0 +1,11 @@
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\Mulitdokumentacja.exe.config
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\Mulitdokumentacja.exe
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\Mulitdokumentacja.pdb
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\obj\Debug\Mulitdokumentacja.Formularz.resources
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\obj\Debug\Mulitdokumentacja.Properties.Resources.resources
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\obj\Debug\Mulitdokumentacja.csproj.GenerateResource.Cache
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\obj\Debug\Mulitdokumentacja.exe
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\obj\Debug\Mulitdokumentacja.pdb
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\itextsharp.dll
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\itextsharp.pdfa.dll
+F:\C#\Mulitdokumentacja\Mulitdokumentacja\bin\Debug\itextsharp.xtra.dll
